@@ -1,5 +1,5 @@
 {
-  "name": "@megalo/cli-plugin-web",
+  "name": "@stonehiy/cli-plugin-web",
   "version": "1.0.0-alpha.6",
   "description": "megalo工程将小程序编译为web的webpack配置插件",
   "main": "index.js",
